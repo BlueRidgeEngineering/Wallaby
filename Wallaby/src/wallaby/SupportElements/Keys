@@ -1,0 +1,31 @@
+KeyListeners if we want to use them
+
+    /**
+     * when keys are pressed, the copy or cut actions are performed
+     *
+     * @param evt
+     */
+//    @Override
+//    public void keyPressed(java.awt.event.KeyEvent evt) {
+//        if (evt.isControlDown() && evt.getKeyCode() == KeyEvent.VK_C) {
+//            String str = ItemCopy();
+//
+//            if (str != null && !str.isEmpty()) {
+//                addRowToTable(ItemCopy());
+//            }
+//
+//        } else if (evt.isControlDown() && evt.getKeyCode() == KeyEvent.VK_X
+//                || evt.isControlDown() && evt.getKeyCode() == KeyEvent.VK_V) {
+//            // delete selected row
+//            removeSelectedFromTable();
+//        }
+//    }
+
+
+//    @Override
+//    public void keyTyped(KeyEvent e) {
+//    }
+//
+//    @Override
+//    public void keyReleased(KeyEvent e) {
+//    }

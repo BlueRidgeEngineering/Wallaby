@@ -1,0 +1,21 @@
+***Improvements***
+
+-Be able to copy text format i.e. if the font is bold or different than default
+-Add settings panel to control some user features
+    -Always on top as an option
+    -panel size
+    =max number of data
+    
+-Allow the data to be copied using key commands directly without focus.
+
+-Add left click/right click
+-Add clear all function
+
+-Add predefined items to the clipboard
+    -Set these in *.wal files and add via check boxes.
+        -have the config savable so it loads it the same every time
+
+
+
+*****
+If all data is removed from the table, we need to clear the list
